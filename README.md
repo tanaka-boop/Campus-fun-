@@ -139,3 +139,6 @@ Special thanks to our lecturers and peers for guidance and support throughout th
 
 
 ## Features - User login system
+## Contact
+- Email: n02421630c@students.nust.ac.zw
+
